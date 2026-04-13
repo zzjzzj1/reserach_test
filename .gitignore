@@ -1,1 +1,6 @@
 /code/
+# openresearch sync
+.openresearch/plans/
+.openresearch/successful/
+.openresearch/jobs/
+.openresearch/bin/

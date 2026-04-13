@@ -1,0 +1,13 @@
+{
+  "article_id": null,
+  "atom_claim_path": "atom_list/1f6bbb0c-8d63-42a1-93d9-ee8ea09d9f86/claim.md",
+  "atom_evidence_assessment_path": "atom_list/1f6bbb0c-8d63-42a1-93d9-ee8ea09d9f86/evidence_assessment.md",
+  "atom_evidence_path": "atom_list/1f6bbb0c-8d63-42a1-93d9-ee8ea09d9f86/evidence.md",
+  "atom_evidence_status": "pending",
+  "atom_evidence_type": "math",
+  "atom_id": "1f6bbb0c-8d63-42a1-93d9-ee8ea09d9f86",
+  "atom_name": "123",
+  "atom_type": "fact",
+  "time_created": 1776067870327,
+  "time_updated": 1776067872539
+}
