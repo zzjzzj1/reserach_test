@@ -9,7 +9,7 @@
   "exp_result_path": "exp_results/58010b57-34c1-4953-877f-53a1d23fb24a/result.wandb",
   "exp_result_summary_path": "exp_results/58010b57-34c1-4953-877f-53a1d23fb24a/summary.md",
   "finished_at": null,
-  "head_commit": "b4d714fc1eb490db6ca9ad2b4f41948b35e2d4a6",
+  "head_commit": "1084d060ccd2412eeeca34156604fafa2ba2e3dc",
   "started_at": null,
   "status": "pending",
   "time_created": 1776147553293,
