@@ -1,0 +1,13 @@
+{
+  "article_id": "7ddb290c-86ee-476d-ae3a-e2bbec51a260",
+  "atom_claim_path": "atom_list/f4b6ea53-22aa-42e9-9ab2-d361468f2230/claim.md",
+  "atom_evidence_assessment_path": "atom_list/f4b6ea53-22aa-42e9-9ab2-d361468f2230/evidence_assessment.md",
+  "atom_evidence_path": "atom_list/f4b6ea53-22aa-42e9-9ab2-d361468f2230/evidence.md",
+  "atom_evidence_status": "pending",
+  "atom_evidence_type": "math",
+  "atom_id": "f4b6ea53-22aa-42e9-9ab2-d361468f2230",
+  "atom_name": "MDP Framework and Definitions",
+  "atom_type": "fact",
+  "time_created": 1776147537247,
+  "time_updated": 1776147537247
+}

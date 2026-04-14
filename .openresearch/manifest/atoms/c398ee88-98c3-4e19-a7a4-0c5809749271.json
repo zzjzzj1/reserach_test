@@ -1,0 +1,13 @@
+{
+  "article_id": "7ddb290c-86ee-476d-ae3a-e2bbec51a260",
+  "atom_claim_path": "atom_list/c398ee88-98c3-4e19-a7a4-0c5809749271/claim.md",
+  "atom_evidence_assessment_path": "atom_list/c398ee88-98c3-4e19-a7a4-0c5809749271/evidence_assessment.md",
+  "atom_evidence_path": "atom_list/c398ee88-98c3-4e19-a7a4-0c5809749271/evidence.md",
+  "atom_evidence_status": "pending",
+  "atom_evidence_type": "math",
+  "atom_id": "c398ee88-98c3-4e19-a7a4-0c5809749271",
+  "atom_name": "Sample-Based Estimation (Single Path and Vine)",
+  "atom_type": "method",
+  "time_created": 1776147537247,
+  "time_updated": 1776147537247
+}

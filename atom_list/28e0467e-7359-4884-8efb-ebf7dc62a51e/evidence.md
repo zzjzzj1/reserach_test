@@ -1,0 +1,3 @@
+## Evidence
+
+This connection is discussed in Section 5. The key practical difference is that TRPO enforces the KL constraint at each update via line search, while natural gradient uses a fixed step size. The paper demonstrates empirically that this constraint enforcement is critical: natural gradient with a fixed step size fails on harder tasks (Hopper, Walker) where TRPO succeeds. The Fisher information matrix is the same object in both methods, but TRPO uses it to determine step size adaptively.

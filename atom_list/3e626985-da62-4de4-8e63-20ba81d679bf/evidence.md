@@ -1,0 +1,3 @@
+## Evidence
+
+This result is from conservative policy iteration (Kakade & Langford, 2002). The restriction to mixture policies limits the practical step size, since the new policy must remain close to the old policy in a specific structural sense. The paper notes that this bound, while providing monotonic improvement guarantees, is limited in applicability and motivates the generalization in Theorem 1.

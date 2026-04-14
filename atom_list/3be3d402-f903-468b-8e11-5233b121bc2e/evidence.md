@@ -1,0 +1,3 @@
+## Evidence
+
+The conjugate gradient approach avoids explicitly inverting or even storing the Fisher information matrix $A$, requiring only matrix-vector products $Av$ which can be computed in $O(|\theta|)$ time via automatic differentiation. The step size formula $\beta = \sqrt{2\delta / (s^T A s)}$ comes from the second-order Taylor approximation of the KL constraint. The backtracking line search (exponentially shrinking the step by a factor until the KL constraint is satisfied) ensures the constraint is met in practice. This approach is described in Section 5 and Section 6 of the paper.

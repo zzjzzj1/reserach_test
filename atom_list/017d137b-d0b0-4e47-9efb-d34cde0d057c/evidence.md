@@ -1,0 +1,3 @@
+## Evidence
+
+The trust region formulation is justified as a robust step-size strategy. By Lagrangian duality, the penalty formulation $\max_\theta [L_{\theta_{\mathrm{old}}}(\theta) - C \cdot D_{KL}^{\max}(\theta_{\mathrm{old}}, \theta)]$ and the constrained formulation are related: for each penalty $C$, there exists a $\delta$ and vice versa. The constraint formulation is preferred because (a) the penalty coefficient $C$ from the theory is overly conservative, (b) a fixed $\delta$ is more intuitive to tune, and (c) empirical results show robust performance across tasks with a single $\delta$ value. The average KL relaxation is used because the max KL constraint is intractable over the full state space.

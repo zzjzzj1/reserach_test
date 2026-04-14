@@ -1,0 +1,13 @@
+{
+  "article_id": "7ddb290c-86ee-476d-ae3a-e2bbec51a260",
+  "atom_claim_path": "atom_list/3daa3e6d-a748-4e77-be72-2dc6764f15cc/claim.md",
+  "atom_evidence_assessment_path": "atom_list/3daa3e6d-a748-4e77-be72-2dc6764f15cc/evidence_assessment.md",
+  "atom_evidence_path": "atom_list/3daa3e6d-a748-4e77-be72-2dc6764f15cc/evidence.md",
+  "atom_evidence_status": "pending",
+  "atom_evidence_type": "math",
+  "atom_id": "3daa3e6d-a748-4e77-be72-2dc6764f15cc",
+  "atom_name": "Proof of Theorem 1 via Coupling Argument",
+  "atom_type": "theorem",
+  "time_created": 1776147537247,
+  "time_updated": 1776147537247
+}

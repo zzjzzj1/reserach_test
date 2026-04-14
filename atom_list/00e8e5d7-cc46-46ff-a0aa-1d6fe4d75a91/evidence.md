@@ -1,0 +1,3 @@
+## Evidence
+
+Results are reported in Figure 3 and Table 1. On the Swimmer task, all gradient-based methods perform comparably. On Hopper and Walker (harder tasks), TRPO (both single path and vine) learns effective locomotion gaits while natural gradient fails to make progress. CEM and CMA perform well on simpler tasks but do not scale to higher dimensions. The vine variant tends to have slightly better performance than single path due to lower variance Q-value estimates. The same hyperparameters ($\delta = 0.01$) are used across all tasks without tuning.

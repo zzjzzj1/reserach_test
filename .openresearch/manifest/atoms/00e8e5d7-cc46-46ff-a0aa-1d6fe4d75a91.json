@@ -1,0 +1,13 @@
+{
+  "article_id": "7ddb290c-86ee-476d-ae3a-e2bbec51a260",
+  "atom_claim_path": "atom_list/00e8e5d7-cc46-46ff-a0aa-1d6fe4d75a91/claim.md",
+  "atom_evidence_assessment_path": "atom_list/00e8e5d7-cc46-46ff-a0aa-1d6fe4d75a91/evidence_assessment.md",
+  "atom_evidence_path": "atom_list/00e8e5d7-cc46-46ff-a0aa-1d6fe4d75a91/evidence.md",
+  "atom_evidence_status": "pending",
+  "atom_evidence_type": "math",
+  "atom_id": "00e8e5d7-cc46-46ff-a0aa-1d6fe4d75a91",
+  "atom_name": "Continuous Control (Locomotion) Experiments",
+  "atom_type": "verification",
+  "time_created": 1776147537247,
+  "time_updated": 1776147537247
+}

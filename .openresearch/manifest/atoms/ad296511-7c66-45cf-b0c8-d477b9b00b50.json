@@ -1,0 +1,13 @@
+{
+  "article_id": "7ddb290c-86ee-476d-ae3a-e2bbec51a260",
+  "atom_claim_path": "atom_list/ad296511-7c66-45cf-b0c8-d477b9b00b50/claim.md",
+  "atom_evidence_assessment_path": "atom_list/ad296511-7c66-45cf-b0c8-d477b9b00b50/evidence_assessment.md",
+  "atom_evidence_path": "atom_list/ad296511-7c66-45cf-b0c8-d477b9b00b50/evidence.md",
+  "atom_evidence_status": "pending",
+  "atom_evidence_type": "math",
+  "atom_id": "ad296511-7c66-45cf-b0c8-d477b9b00b50",
+  "atom_name": "Minorization-Maximization Algorithm (Algorithm 1)",
+  "atom_type": "method",
+  "time_created": 1776147537247,
+  "time_updated": 1776147537247
+}

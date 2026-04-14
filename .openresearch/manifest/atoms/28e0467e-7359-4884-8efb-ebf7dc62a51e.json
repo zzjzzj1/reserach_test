@@ -1,0 +1,13 @@
+{
+  "article_id": "7ddb290c-86ee-476d-ae3a-e2bbec51a260",
+  "atom_claim_path": "atom_list/28e0467e-7359-4884-8efb-ebf7dc62a51e/claim.md",
+  "atom_evidence_assessment_path": "atom_list/28e0467e-7359-4884-8efb-ebf7dc62a51e/evidence_assessment.md",
+  "atom_evidence_path": "atom_list/28e0467e-7359-4884-8efb-ebf7dc62a51e/evidence.md",
+  "atom_evidence_status": "pending",
+  "atom_evidence_type": "math",
+  "atom_id": "28e0467e-7359-4884-8efb-ebf7dc62a51e",
+  "atom_name": "Connection to Natural Policy Gradient",
+  "atom_type": "fact",
+  "time_created": 1776147537247,
+  "time_updated": 1776147537247
+}

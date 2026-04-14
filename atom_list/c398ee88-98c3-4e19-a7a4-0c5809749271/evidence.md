@@ -1,0 +1,3 @@
+## Evidence
+
+Single Path is simpler and applicable to real-world systems where branching rollouts are impossible. The Vine method provides lower variance estimates through CRN (common random numbers), since paired comparisons between actions at the same state cancel out transition noise. However, Vine requires the ability to reset the simulator to arbitrary states. The choice between methods depends on the application domain. Both methods can be used with importance sampling when the sampling distribution $q$ differs from the policy being evaluated.

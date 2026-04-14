@@ -1,0 +1,3 @@
+## Evidence
+
+Results are reported in Table 2 and Figure 4. TRPO outperforms DQN on Beamrider, Enduro, Pong, Q*bert, and Seaquest, while DQN is better on Breakout and Space Invaders. Notably, TRPO uses a significantly smaller network ($\sim$33,500 params vs. $\sim$1.7M for DQN) and learns an on-policy stochastic policy rather than an off-policy Q-function. The results demonstrate that TRPO can handle both continuous and discrete action spaces, and high-dimensional observation spaces (raw pixels), without task-specific architecture tuning.

@@ -1,0 +1,3 @@
+## Evidence
+
+The identity follows from the definition of the advantage function and a telescoping argument. Starting from $A_\pi(s_t, a_t) = r(s_t) + \gamma V_\pi(s_{t+1}) - V_\pi(s_t)$, summing the discounted advantages along trajectories of $\tilde{\pi}$ yields the difference $\eta(\tilde{\pi}) - \eta(\pi)$. The reformulation into Equation 2 uses the definition of discounted visitation frequencies $\rho_{\tilde{\pi}}(s) = \sum_{t=0}^{\infty} \gamma^t P(s_t = s \mid \tilde{\pi})$. This identity is attributed to Kakade & Langford (2002).

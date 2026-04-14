@@ -1,0 +1,3 @@
+## Evidence
+
+The perturbation approach uses the identity $\tilde{G} - G = \gamma G \Delta \tilde{G}$ (a resolvent identity). The leading term $\gamma \rho_0^T G \Delta \tilde{G} r$ corresponds to the surrogate advantage $L_\pi(\tilde{\pi}) - \eta(\pi)$, while the remainder involves higher-order products of $\Delta$. The $\ell_1$ norm of $\Delta$ is bounded by $2\alpha$ since $\|P_{\tilde{\pi}}(\cdot | s) - P_\pi(\cdot | s)\|_1 \leq 2 D_{TV}(\pi(\cdot|s) \| \tilde{\pi}(\cdot|s))$. This proof provides complementary insight by connecting policy optimization to classical perturbation theory for Markov chains.

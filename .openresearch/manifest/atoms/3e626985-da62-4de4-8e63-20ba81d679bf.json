@@ -1,0 +1,13 @@
+{
+  "article_id": "7ddb290c-86ee-476d-ae3a-e2bbec51a260",
+  "atom_claim_path": "atom_list/3e626985-da62-4de4-8e63-20ba81d679bf/claim.md",
+  "atom_evidence_assessment_path": "atom_list/3e626985-da62-4de4-8e63-20ba81d679bf/evidence_assessment.md",
+  "atom_evidence_path": "atom_list/3e626985-da62-4de4-8e63-20ba81d679bf/evidence.md",
+  "atom_evidence_status": "pending",
+  "atom_evidence_type": "math",
+  "atom_id": "3e626985-da62-4de4-8e63-20ba81d679bf",
+  "atom_name": "Conservative Policy Iteration Bound",
+  "atom_type": "fact",
+  "time_created": 1776147537247,
+  "time_updated": 1776147537247
+}

@@ -1,0 +1,3 @@
+## Evidence
+
+The first-order matching property is established in Section 2 (Equation 4). Since $L_\pi$ and $\eta$ agree at $\pi$ and share the same gradient at $\pi$, a sufficiently small step that improves $L_\pi$ will also improve $\eta$. However, without a bound on the approximation error, the step size required for guaranteed improvement is unknown. This motivates the need for a trust region or penalty approach.

@@ -1,0 +1,3 @@
+## Evidence
+
+The monotonic improvement follows from the KL divergence corollary: $\eta(\pi) \geq M_i(\pi)$ for all $\pi$, and $\eta(\pi_i) = M_i(\pi_i)$ (since the KL divergence is zero at the current policy). Since $\pi_{i+1}$ maximizes $M_i$, we have $M_i(\pi_{i+1}) \geq M_i(\pi_i) = \eta(\pi_i)$, and thus $\eta(\pi_{i+1}) \geq M_i(\pi_{i+1}) \geq \eta(\pi_i)$. However, the penalty coefficient $C$ is very large in practice, leading to tiny step sizes. This motivates the trust region reformulation.

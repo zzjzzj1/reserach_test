@@ -1,0 +1,13 @@
+{
+  "article_id": "7ddb290c-86ee-476d-ae3a-e2bbec51a260",
+  "atom_claim_path": "atom_list/3be3d402-f903-468b-8e11-5233b121bc2e/claim.md",
+  "atom_evidence_assessment_path": "atom_list/3be3d402-f903-468b-8e11-5233b121bc2e/evidence_assessment.md",
+  "atom_evidence_path": "atom_list/3be3d402-f903-468b-8e11-5233b121bc2e/evidence.md",
+  "atom_evidence_status": "pending",
+  "atom_evidence_type": "math",
+  "atom_id": "3be3d402-f903-468b-8e11-5233b121bc2e",
+  "atom_name": "Practical TRPO Algorithm",
+  "atom_type": "method",
+  "time_created": 1776147537247,
+  "time_updated": 1776147537247
+}

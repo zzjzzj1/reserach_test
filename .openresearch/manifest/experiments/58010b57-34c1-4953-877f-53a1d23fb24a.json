@@ -1,0 +1,17 @@
+{
+  "atom_id": "2a6a5110-dc02-48ea-9f51-f7aead2bb501",
+  "baseline_branch_name": "master",
+  "code_name": "trpo",
+  "exp_branch_name": "58010b57-34c1-4953-877f-53a1d23fb24a",
+  "exp_id": "58010b57-34c1-4953-877f-53a1d23fb24a",
+  "exp_name": "baseline",
+  "exp_plan_path": "exp_results/58010b57-34c1-4953-877f-53a1d23fb24a/plan.md",
+  "exp_result_path": "exp_results/58010b57-34c1-4953-877f-53a1d23fb24a/result.wandb",
+  "exp_result_summary_path": "exp_results/58010b57-34c1-4953-877f-53a1d23fb24a/summary.md",
+  "finished_at": null,
+  "head_commit": "a10e38ea2bb7df2ca50fbdabbed3518a0526ee9e",
+  "started_at": null,
+  "status": "pending",
+  "time_created": 1776147553293,
+  "time_updated": 1776147553293
+}

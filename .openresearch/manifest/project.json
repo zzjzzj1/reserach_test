@@ -1,8 +1,8 @@
 {
-  "background_path": null,
-  "goal_path": null,
+  "background_path": "background.md",
+  "goal_path": "goal.md",
   "macro_table_path": null,
   "research_project_id": "f40d359f-03d2-4fb4-b2fa-c816e4d713db",
-  "synced_at": 1776147246286,
+  "synced_at": 1776147621459,
   "version": "1.0"
 }

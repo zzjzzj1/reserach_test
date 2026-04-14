@@ -1,0 +1,3 @@
+## Evidence
+
+The coupling construction pairs the old and new policies so they agree with probability $1 - \alpha$ at each state. When actions disagree, the advantage can differ by at most $2\epsilon$. The total variation distance $D_{TV}^{\max}(\pi, \tilde{\pi}) = \alpha$ controls the probability of disagreement. The factor of $\alpha^2$ arises because the approximation error $\eta(\tilde{\pi}) - L_\pi(\tilde{\pi})$ involves both (a) the probability of trajectory divergence and (b) the per-step advantage discrepancy, each contributing a factor of $\alpha$. The geometric sum over the discount factor contributes the $(1-\gamma)^{-2}$ factor.
